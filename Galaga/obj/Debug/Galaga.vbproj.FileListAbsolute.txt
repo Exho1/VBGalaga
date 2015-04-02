@@ -1,0 +1,11 @@
+C:\Users\Sadams815\AppData\Local\Temporary Projects\Galaga\bin\Debug\Galaga.exe.config
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\bin\Debug\Galaga.exe.config
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\bin\Debug\Galaga.exe
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\bin\Debug\Galaga.pdb
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\bin\Debug\Galaga.xml
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.Resources.resources
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.vbproj.GenerateResource.Cache
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.exe
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.xml
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.pdb
+C:\Users\Sadams815\Desktop\VB Galaga\Galaga\Galaga\obj\Debug\Galaga.frmMain.resources
